@@ -6,7 +6,7 @@ BSides Oslo is a independent, community-driven inclusive information security co
 
 ### Social media
 
- * [Mastadon](https://infosec.exchange/@bsidesoslo)
+ * [Mastodon](https://infosec.exchange/@bsidesoslo)
  * [Twitter](https://twitter.com/oslobsides)
  * [YouTube](https://www.youtube.com/channel/UC6kTOacrQTu1ahmRCvXhhrA)
 
